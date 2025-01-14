@@ -19,11 +19,11 @@ Next, input your monthly income, and your monthly budget (Income minus whatever 
 Finally, input all of your weekly and monthly expenses, and read the results that are neatly organized on the screen!
 
    
-![Step one](./assets/images/README-img1.PNG)
+![Step one](./assets/images/SIGN-IN-PAGE.png)
    
-![Step two](./assets/images/README-img2.PNG)
+![Step two](./assets/images/FINANCIAL-PAGE.png)
 
-![Step three](./assets/images/README-img3.PNG)
+![Step three](./assets/images/EXPENSES-PAGE.png)
    
 
 ## Credits

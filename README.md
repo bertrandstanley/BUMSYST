@@ -9,7 +9,7 @@ Our team created this web app to help families and households manage their money
 
 ## Installation
 
-Just visit our website at: https://djsteezybaby.github.io/BUMSYST/
+Just visit our website at: https://bertrandstanley.github.io/BUMSYST/
 ## Usage
 
 First, sign in using first and last name. 
@@ -33,7 +33,7 @@ CREATORS AND LINKS TO GITHUBS:
 Pechimuthu Konar: https://github.com/muthukonar
 Hugh Moore: https://github.com/hughbenmoore
 Caleb Colangelo: https://github.com/CalebColangelo
-Stanley Bertrand: https://github.com/djsteezybaby
+Stanley Bertrand: https://github.com/bertrandstanley
 
 We used Bootstrap CSS, here is their link to an amazing framework: https://getbootstrap.com
 
